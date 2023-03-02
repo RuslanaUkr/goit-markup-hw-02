@@ -16,13 +16,12 @@ body {
 }
 
 .headerpage-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
   color: var(--primary-brand);
-  text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
@@ -38,6 +37,9 @@ body {
 .link {
   text-decoration: none;
 }
+.contacts {
+  font-style: normal;
+}
 
 .headerpage-navigation-list {
   color: var(--dark);
@@ -49,7 +51,7 @@ body {
 
 .headerpage-navigation-list:hover,
 .headerpage-navigation-list:focus {
-  color: var(--primary-brand);
+  color: var(--btn-background);
 }
 
 .list-contacts {
@@ -76,6 +78,7 @@ body {
   color: var(--primery-bcg);
 }
 .hero-btn {
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -134,13 +137,12 @@ body {
 }
 
 .footerpage-logo {
-  font-family: "Raleway";
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.33;
   color: var(--primary-brand);
-  text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
@@ -153,7 +155,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--accent);
+  color: var(--light-background);
 }
 .section-team {
   background-color: var(--light-background);
