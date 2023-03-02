@@ -63,7 +63,7 @@ body {
 
 .list-contacts:hover,
 .list-contacts:focus {
-  color: var(--primary-brand);
+  color: var(--btn-background);
 }
 
 .hero {
