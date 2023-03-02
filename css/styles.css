@@ -41,8 +41,6 @@ body {
 
 .headerpage-navigation-list {
   color: var(--dark);
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -70,8 +68,6 @@ body {
   background-color: var(--dark);
 }
 .hero-text {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -80,8 +76,6 @@ body {
   color: var(--primery-bcg);
 }
 .hero-btn {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -103,8 +97,6 @@ body {
   opacity: 0;
 }
 .features-item-title {
-  font-family: "Roboto";
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
