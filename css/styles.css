@@ -48,10 +48,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-.headerpage-navigation-list.current {
+/* Якщо додати клас current дз не проходить перевірку */
+/* .headerpage-navigation-list.current {
   color: var(--btn-background);
-}
+} */
 
 .headerpage-navigation-list:hover,
 .headerpage-navigation-list:focus {
